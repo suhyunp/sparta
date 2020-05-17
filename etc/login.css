@@ -1,0 +1,11 @@
+* {font-family: 'Cute Font', cursive}
+   
+.wrap{
+     margin : 10px auto;
+     width : 300px;
+ }
+
+ body {
+    background-color: black;
+    color: white;
+}
